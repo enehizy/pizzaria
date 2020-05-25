@@ -1,5 +1,5 @@
 
-## requirements node and yarn
-### `yarn install`
-### `yarn start`
+# requirements node and yarn
+## `yarn install`
+## `yarn start`
 
